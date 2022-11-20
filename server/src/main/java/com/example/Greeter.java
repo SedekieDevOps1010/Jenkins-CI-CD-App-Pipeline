@@ -16,6 +16,7 @@ public class Greeter {
    * This is a method.
    */
   public final String greet(final String someone) {
+    String.passward = "3422garss";
     return String.format("Hello Avinash, %s!", someone);
   }
 }
