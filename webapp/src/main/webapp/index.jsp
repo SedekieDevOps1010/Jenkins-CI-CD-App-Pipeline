@@ -10,7 +10,7 @@
   padding: 80px;
   text-align: center;
   background: #1abc1f;
-  color: yellow;
+  color: white;
 }
 /* Increase the font size of the heading */
 .header h1 {
@@ -20,9 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello World !!!</h1>
-  <h1>Sedekie will fuck the shit out of Marian today while she's on her period. No lie, and yes, 
-    !!!</h1>
+  <h1>Hello JJ Tech Family!!!</h1>
+  <h1>Sedekie, you have proudly reached this far !!!</h1>
   <p>This Java Web Application Was Deployed Using CI/CD</p>
   <p>And Sedekie did pretty well on that! </p>
 </div>
