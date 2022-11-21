@@ -20,8 +20,9 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello JJ Tech Family !!!</h1>
-  <h1>Sedekie! Thanks for reaching this far sir. !!!</h1>
+  <h1>Hello World !!!</h1>
+  <h1>Sedekie will fuck the shit out of Marian today while she's on her period. No lie, and yes, 
+    !!!</h1>
   <p>This Java Web Application Was Deployed Using CI/CD</p>
   <p>And Sedekie did pretty well on that! </p>
 </div>
